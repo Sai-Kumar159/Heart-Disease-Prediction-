@@ -68,3 +68,10 @@ In this project, I:
    ```bash
    git clone https://github.com/Sai-Kumar159/Heart-Disease-Prediction-.git
    cd Heart-Disease-Prediction-
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Jupyter notebook
+jupyter notebook "Heart-disease-prediction (2).ipynb"
+
